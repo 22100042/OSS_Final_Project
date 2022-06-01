@@ -1,7 +1,7 @@
 
 # ℹ️ Blow-Website
 
-* ### Blow is a website for Blogging
+* ### Blow is
 * ### Blogging Website's becoming most powertool now a days
 * ### The Frontend Part is completed
 
