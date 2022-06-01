@@ -1,90 +1,61 @@
 
-# ℹ️ Blow-Website
+# OSS Lab Final Project(HGU 2022-1)
 
-* ### Blow is
-* ### Blogging Website's becoming most powertool now a days
-* ### The Frontend Part is completed
+## 22100042, Kwak Seowon
 
----
 
-# 👁️‍🗨️ Preview of Blow Website
 
-https://user-images.githubusercontent.com/66934377/166210662-1b84b9fe-688a-4649-9bae-8e3baf80dd98.mp4
 
 ---
 
-# 📱 No Responsive Design 🥲
+* ## What does this project do?
+---
+
 
 ---
 
-# 🗂️ Framewrok
+* ## Why is this project useful?
+---
 
-The below table framework is used in this project. To run this project. This framework's has been install in system with same Version or Latest Version
+* ## How do I get started?
+🗂️ Framework
 
+0. The below table framework is used in this project. To run this project. This framework's has been install in system  Latest Version
+
+https://nodejs.org/en/
+https://tailwindcss.com/docs/installation
 | Framework     | Version      | 
 | ------------- | ------------- | 
-| Node.js          | 16.14.2    |
-| Tailwindcss       | 3.0.23    | 
-
----
-
-# 👨‍💻 Command for Execute Project 
-
+| Node.js          | Latest Version    |
+| Tailwindcss       | Latest Version    | 
+1. Clone the repository to any of your directory
 ```bash
-npm run runserver
+git clone  https://github.com/22100042/OSS_Final_Project.git
 ```
-
----
-
-# ⬇️ Code Downloading Process
-
-* You Can Download the code in **2 Methods**
-* Choose Any One Methode has your whish
-
----
-
-# Ⓜ️ Methode 1
-
-* **This Methode is Very Easy**
-
-* Now Click on __Code Option__
-
-![Screenshot (158)](https://user-images.githubusercontent.com/66934377/164152919-f2854829-535d-4227-9c2f-031f8051f6ac.png)
-
-* Now A Screen will Popup. Now Click **Download Zip** Option . Now the file has been started downloading 
-
-![Screenshot (159)](https://user-images.githubusercontent.com/66934377/164153128-b64e85a2-e40c-4457-9835-a749ac79acd6.png)
-
----
-
-# Ⓜ️ Methode 2
-
-* **This Methode is tittle bit Hard**
-
-* Now Open **cmd** in windows, **bash Terminal** in mac. Now Hit the Below Command's
-
+2. Move to the OSS_Final_Project directory
 ```bash
-git clone https://github.com/Manju1392k/Blow-Website.git
+cd OSS_Final_Project
 ```
-
-* The project cloned after this process
-
----
-
-# 📦 Extra Packages for Project
-
-* This packages are important for project without this package's the project can't run.
-
----
-## For Node Modules
+3. install node module
 ```bash
 npm install node
 ```
-
----
-
-## For Vite Development Server
-
+4. install Vite Development Server
 ```bash
 npm install vite
 ```
+5. Enter cd .. then
+```bash
+sudo cp OSS_Final_Project/ /var/www/html/ -r
+```
+6. Enjoy the BlogSite!
+```bash
+In chrome, enter https://"YOUR IP ADDRESS"/OSS_Final_Project
+```
+---
+
+* ## Where can I get more help, if I need it?
+If you encounter any problem😂, feel free to contact my email "22100042@handonge.ac.kr"
+
+---
+### Presentation Video (Youtube) Link -> 
