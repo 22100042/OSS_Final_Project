@@ -3,6 +3,8 @@
 # BlogSite(Personal Blog)
 
 ## 22100042, Kwak Seowon
+### Presentation Video (Youtube) Link -> https://youtu.be/iQPFZDAK6f4
+
 
 
 
@@ -65,4 +67,3 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Ima
 ## If you encounter any problem😂, feel free to contact my email "22100042@handonge.ac.kr"
 
 ---
-### Presentation Video (Youtube) Link -> 
